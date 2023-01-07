@@ -1,8 +1,9 @@
-- 👋 Oi, eu sou @JoaoAlisonTI, ou João Alison .
-- 👀 Estou interessado em sempre melhorar, buscar novos conhecimentos e conquistar meus objetivos. 
-Sou amante da programação, apesar de ser um estudante, tenho interesse de continuar na área da TI e 
-Me aperfeiçoar para conseguir um emprego e me desempenhar bem em uma faculdade.
-- 👨🏾‍💻 Sou bom com HTML5, CSS3, JavaScript, sei o básico de PHP e estou aprendendo sobre Node.Js, React e Python.
+- 👋 Oi, eu sou @JoaoAlisonTI, ou simplesmente João Alison.
+- 👀 Estou interessado em sempre melhorar, buscar novos conhecimentos, experiências e conquistar meus objetivos. 
+Sou amante da programação e da tecnologia. Concluí o Ensino Médio Técnico em 2022, e tenho interesse de seguir trabalhando na área de TI.
+
+- 👨🏾‍💻 Sou bom com HTML5, CSS3, JavaScript, sei o básico de PHP e C, e estou aprendendo sobre React, Node.Js e Python.
+
 - 📬📨Contato: joaoalison.ti@gmail.com
 
 <!---
