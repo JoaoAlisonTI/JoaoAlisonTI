@@ -3,9 +3,9 @@
 👀 Estou interessado em sempre aprender e melhorar. Buscar novos conhecimentos, experiências e conquistar meus objetivos. 
 Sou amante da programação e da tecnologia. Concluí o Ensino Médio Técnico em 2022, e tenho interesse de seguir trabalhando na área de TI.
 
-- 👨🏾‍💻 Sou bom com HTML5, CSS3, JavaScript, sei o básico de PHP e C. 
+- 👨🏾‍💻 Trabalho com HTML5, CSS3, JavaScript, sei o básico de PHP e C. 
 
-- 📚 Atualmente estou aprendendo sobre React, Node.Js, Python e outros por hobbie.
+- 📚 Atualmente estou aprendendo sobre React, Node.js, Vue.js e outros por hobbie.
 
 - 📬📨Contato: joaoalison.ti@gmail.com
 
