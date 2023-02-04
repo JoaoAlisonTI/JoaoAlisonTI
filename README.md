@@ -1,15 +1,50 @@
-👋 Oi, eu sou @JoaoAlisonTI, ou simplesmente João Alison.
 
-👀 Estou interessado em sempre aprender e melhorar. Buscar novos conhecimentos, experiências e conquistar meus objetivos. 
-Sou amante da programação e da tecnologia. Concluí o Ensino Médio Técnico em 2022, e tenho interesse de seguir trabalhando na área de TI.
+![MasterHead]()
+<img align="right" height="500em" width="400em" src="./mycard.jpg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Alison</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
-- 👨🏾‍💻 Trabalho com HTML5, CSS3, JavaScript, sei o básico de PHP e C. 
+- 🚀 Estou sempre interessado em melhorar, buscar novos conhecimentos, experiências e conquistar meus objetivos.
 
-- 📚 Atualmente estou aprendendo sobre React, Node.js, Vue.js e outros por hobbie.
+- 🧑🏾‍💻 Sou amante da programação e da tecnologia.
 
-- 📬📨Contato: joaoalison.ti@gmail.com
+- 🏫 Concluí o Ensino Médio Técnico em 2022 no curso Técnico em Informática (3 anos), e tenho interesse de ingressar em uma Faculdade e seguir carreira na área de TI.
 
-<!---
-JoaoAlisonTI/JoaoAlisonTI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, C e SQL**
+
+- 📚 I’m currently learning about **React, Node.js**
+
+</br></br>
+
+## 📫 &nbsp;Contact
+
+<p align="left">
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jo%C3%A3o-alison-139b21238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/joao_alison_22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="25" width="25" /></a>
+</p>
+
+</br></br>
+
+## 🛠️ &nbsp;Tech Stack
+
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28" /></a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" /></a>&nbsp;
+<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>&nbsp;
+<a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="28" height="28"/></a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="28" height="28"/></a>&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="28" height="28"/></a>&nbsp;
+<a href="https://docs.github.com/pt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="figma" width="28" height="28"/></a>
+</p>
+
+</br></br>
+
+## 📊  &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=radical" alt="JoaoAlisonTI stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=radical" alt="JoaoAlisonTI most languages"/>
+</p
