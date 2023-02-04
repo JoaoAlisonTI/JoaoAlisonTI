@@ -1,6 +1,6 @@
 
-![MasterHead]()
-<img align="right" height="500em" width="400em" src="./mycard.jpg"/>
+<!--![MasterHead]()-->
+<img align="right" height="400em" width="300em" src="./mycard.jpg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
@@ -37,7 +37,7 @@
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="28" height="28"/></a>&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="28" height="28"/></a>&nbsp;
-<a href="https://docs.github.com/pt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="figma" width="28" height="28"/></a>
+<a href="https://docs.github.com/pt" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="28" height="28"/></a>
 </p>
 
 </br></br>
