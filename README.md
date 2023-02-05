@@ -1,5 +1,7 @@
 
-<img align="right" height="500em" width="300em" src="./myCard.png"/>&nbsp;
+<img align="right" height="500em" width="300em" src="./myCard.png"/>
+
+&nbsp;
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
@@ -19,7 +21,7 @@
 
 <p align="left">
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/jo%C3%A3o-alison-139b21238/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/joao_alison_22/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="25" width="25" /></a>
+<a href="https://www.instagram.com/joao_alison_23/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="25" width="25" /></a>
 </p>
 
 </br></br>
