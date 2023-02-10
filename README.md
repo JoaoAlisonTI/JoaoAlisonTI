@@ -10,9 +10,9 @@
 
 - 🏫 Concluí o Ensino Médio Técnico em 2022 no curso Técnico em Informática (3 anos), e tenho interesse de ingressar em uma Faculdade e seguir carreira na área de TI.
 
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, C e SQL**
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, C, SQL and React, Node.js in process**
 
-- 📚 I’m currently learning about **React, Node.js**
+- 📚 I’m currently learning about **development, programming, techniques, tools.**
 
 </br></br>
 
