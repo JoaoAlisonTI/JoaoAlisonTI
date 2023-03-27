@@ -1,7 +1,7 @@
 
 <img align="right" height="500em" width="300em" src="./myCard.png"/>
 &nbsp;
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Alison</h1>
+<h1 align="left">Hi 👋🏽, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
 - 🚀 Estou sempre interessado em melhorar, buscar novos conhecimentos, experiências e conquistar meus objetivos.
@@ -10,7 +10,7 @@
 
 - 🏫 Concluí o Ensino Médio Técnico em 2022 no curso Técnico em Informática (3 anos), e tenho interesse de ingressar em uma Faculdade e seguir carreira na área de TI.
 
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, C, SQL and React, Node.js in process**
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL and React and Node.js in process**
 
 - 📚 I’m currently learning about **development, programming, techniques, tools.**
 
@@ -44,7 +44,9 @@
 
 ## 📊  &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=radical" alt="JoaoAlisonTI stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=radical" alt="JoaoAlisonTI most languages"/>
-</p>
+
+![JoaoAlisonTI Status](https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=dark)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JoaoAlisonTI's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoaoAlisonTI)](https://github.com/anuraghazra/github-readme-stats)
