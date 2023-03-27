@@ -47,4 +47,4 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=radical" alt="JoaoAlisonTI stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=radical" alt="JoaoAlisonTI most languages"/>
-</p
+</p>
