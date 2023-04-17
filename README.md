@@ -1,6 +1,5 @@
 
-<img align="right" height="500em" width="300em" src="./myCard.png"/>
-&nbsp;
+
 <h1 align="left">Hi 👋🏽, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
@@ -49,9 +48,9 @@
 
 ![JoaoAlisonTI Status](https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=radical)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoAlisonTI&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoaoAlisonTI&theme=radical)](https://git.io/streak-stats)
 
 <br />
 
