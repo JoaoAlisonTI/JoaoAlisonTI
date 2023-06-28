@@ -7,7 +7,7 @@
 
 - 🏫 I completed Technical High School in 2022 in the Technical Computer course (3 years), and I am interested in joining a Faculty and pursuing a career in the IT area.
 
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL, React and Node.js in**
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL, React and Node.js**
 
 - 📚 I’m currently learning about **development, programming, techniques, tools.**
 
