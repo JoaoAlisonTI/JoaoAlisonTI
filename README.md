@@ -3,13 +3,11 @@
 <h1 align="left">Hi 👋🏽, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
-- 🚀 Estou sempre interessado em melhorar, buscar novos conhecimentos, experiências e conquistar meus objetivos.
+- 🚀 I am always interested in improving, seeking new knowledge, experiences and achieving my goals.
 
-- 🧑🏾‍💻 Sou amante da programação e da tecnologia.
+- 🏫 I completed Technical High School in 2022 in the Technical Computer course (3 years), and I am interested in joining a Faculty and pursuing a career in the IT area.
 
-- 🏫 Concluí o Ensino Médio Técnico em 2022 no curso Técnico em Informática (3 anos), e tenho interesse de ingressar em uma Faculdade e seguir carreira na área de TI.
-
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL and React and Node.js in process**
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL, React and Node.js in**
 
 - 📚 I’m currently learning about **development, programming, techniques, tools.**
 
