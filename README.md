@@ -5,11 +5,13 @@
 
 - 🚀 I am always interested in improving, seeking new knowledge, experiences and achieving my goals.
 
-- 🏫 I completed Technical High School in 2022 in the Technical Computer course (3 years), and I am interested in joining a Faculty and pursuing a career in the IT area.
+- 🏫 I completed Technical High School in 2022 in Computer Technical course (3 years).
 
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, PHP, SQL, React and Node.js**
+- ⚛️🖥️ Started a degree in Computer Science (2023-⏳).
 
-- 📚 I’m currently learning about **development, programming, techniques, tools.**
+- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, React.js, Node.js, PHP and SQL.**
+
+- 📚 I’m currently learning about **development, programming, techniques and tools.**
 
 </br></br>
 
