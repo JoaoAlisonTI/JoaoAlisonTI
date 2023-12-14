@@ -3,15 +3,15 @@
 <h1 align="left">Hi 👋🏽, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
-- 🚀 I am always interested in improving, seeking new knowledge, experiences and achieving my goals.
+- I‘m always interested in improving, seeking new knowledge, experiences and achieving my goals 🚀.
 
-- 🏫 I completed Technical High School in 2022 in Computer Technical course (3 years).
+- I completed Technical High School in 2022 in IT Support Technician (3 years) 🏫.
 
-- ⚛️🖥️ Started a degree in Computer Science (2023-⏳).
+- Started a degree in Computer Science (2023-⏳) ⚛️🖥️.
 
-- 🔭 I’m currently working on **HTML5, CSS3, JavaScript, React.js, Node.js, PHP and SQL.**
+- I’m currently working on **HTML5/CSS3, JavaScript, Node.js, React.js, Next.js, PHP, SQL, Git and Github 🔭.**
 
-- 📚 I’m currently learning about **development, programming, techniques and tools.**
+- Passionate about expanding my knowledge in **development, programming, and exploring new techniques and tools 📚.**
 
 </br></br>
 
