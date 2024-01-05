@@ -3,6 +3,10 @@
 <h1 align="left">Hi 👋🏽, I'm João Alison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoAlisonTI&color=blue" alt="Profile views" /> </p>
 
+<br />
+
+<p align="left">As a technology enthusiast from Ceará, I actively seek challenges that fuel my passion for innovation. Offering technical expertise and a proactive approach, I am poised to contribute to ambitious projects. Committed to continuous learning, I am well-equipped to tackle the dynamic challenges of the tech world.</p>
+
 - I‘m always interested in **improving**, seeking **new knowledge**, **experiences** and **achieving my goals** 🚀.
 
 - I completed Technical High School in 2022 in **IT Support Technician (3 years) 🏫**.
