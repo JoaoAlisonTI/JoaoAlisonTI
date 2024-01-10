@@ -19,7 +19,7 @@
 
 </br></br>
 
-<h2 style="text-align:center;">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
