@@ -20,8 +20,9 @@
 - Adherence to good **code practices**, **agile methodologies**, and a focus on **accessibility (UX).**
 - Code versioning using **Git** and **Github**.
 
-💬 **Additional Capabilities:**
-- **Support** in **PHP, SQL,** and **database manipulation**.
+💬 **Additional Capabilities (If needed):**
+- Support in **PHP**, **SQL**, and **database manipulation.**
+- Back-end support with **Node.js.**
 
 📚 **Passion for Learning:**
 - Enthusiastic about **learning** in the field of **development**, **programming**, and **exploring new** **techniques** and **tools.**
