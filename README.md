@@ -50,7 +50,7 @@
 
 ![JoaoAlisonTI Status](https://github-readme-stats.vercel.app/api?username=JoaoAlisonTI&show_icons=true&theme=holi)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlisonTI&layout=compact&theme=holi&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
