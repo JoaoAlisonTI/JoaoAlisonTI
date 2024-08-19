@@ -6,7 +6,7 @@
 <a style="cursor:pointer; padding:6px;" href="https://my-profile-links.vercel.app/" target="_blank"><img style="height:24px;padding-right:4px;" align="center" src="./public/logo.svg" /> My Profile Links</a>
 </p>
 
-<p align="center">As a technology enthusiast from Ceará, I actively seek challenges that fuel my passion for innovation. Offering technical expertise and a proactive approach, I am poised to contribute to ambitious projects.</p>
+<p align="center">As a Front-end Developer, I am seeking challenges that fuel my passion for innovation, offering technical skills and a proactive approach to contribute to ambitious projects.</p>
 
 🚀 **Skills:**
 - Main languages: **JavaScript.**
