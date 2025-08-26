@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋🏽, I'm João Alison</h1>
 <p align="center">
 &nbsp;&nbsp;<a style="cursor:pointer" href="https://www.linkedin.com/in/joão-alison-de-sousa-martins" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a style="cursor:pointer; padding:6px;" href="https://my-profile-links.vercel.app/" target="_blank"><img style="height:24px;padding-right:4px;" align="center" src="./public/logo.svg" /> My Profile Links</a>
 </p>
 
-<p align="center">As a Front-end Developer, I am seeking challenges that fuel my passion for innovation, offering technical skills and a proactive approach to contribute to ambitious projects.</p>
+------
 
 🚀 **Skills:**
 - Main languages: **JavaScript.**
